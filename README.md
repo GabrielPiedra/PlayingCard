@@ -1,3 +1,3 @@
 # PlayingCard
 
-A description of this package.
+This is a desciption of a test package for a SPM tutorial. 

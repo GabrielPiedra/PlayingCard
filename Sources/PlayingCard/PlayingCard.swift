@@ -1,3 +1,4 @@
-struct PlayingCard {
-    var text = "Hello, World!"
+public struct PlayingCard {
+    let rank: Rank
+    let suit: Suit
 }
